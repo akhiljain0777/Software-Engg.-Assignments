@@ -1,0 +1,103 @@
+
+---Testing Leap Year---
+
+Year 1950: Not a Leap Year
+Year 1951: Not a Leap Year
+Year 1952: Leap Year
+Year 1953: Not a Leap Year
+Year 1954: Not a Leap Year
+Year 1955: Not a Leap Year
+Year 1956: Leap Year
+Year 1957: Not a Leap Year
+Year 1958: Not a Leap Year
+Year 1959: Not a Leap Year
+Year 1960: Leap Year
+Year 1961: Not a Leap Year
+Year 1962: Not a Leap Year
+Year 1963: Not a Leap Year
+Year 1964: Leap Year
+Year 1965: Not a Leap Year
+Year 1966: Not a Leap Year
+Year 1967: Not a Leap Year
+Year 1968: Leap Year
+Year 1969: Not a Leap Year
+Year 1970: Not a Leap Year
+Year 1971: Not a Leap Year
+Year 1972: Leap Year
+Year 1973: Not a Leap Year
+Year 1974: Not a Leap Year
+Year 1975: Not a Leap Year
+Year 1976: Leap Year
+Year 1977: Not a Leap Year
+Year 1978: Not a Leap Year
+Year 1979: Not a Leap Year
+Year 1980: Leap Year
+Year 1981: Not a Leap Year
+Year 1982: Not a Leap Year
+Year 1983: Not a Leap Year
+Year 1984: Leap Year
+Year 1985: Not a Leap Year
+Year 1986: Not a Leap Year
+Year 1987: Not a Leap Year
+Year 1988: Leap Year
+Year 1989: Not a Leap Year
+Year 1990: Not a Leap Year
+Year 1991: Not a Leap Year
+Year 1992: Leap Year
+Year 1993: Not a Leap Year
+Year 1994: Not a Leap Year
+Year 1995: Not a Leap Year
+Year 1996: Leap Year
+Year 1997: Not a Leap Year
+Year 1998: Not a Leap Year
+Year 1999: Not a Leap Year
+Year 2000: Leap Year
+Year 2001: Not a Leap Year
+Year 2002: Not a Leap Year
+Year 2003: Not a Leap Year
+Year 2004: Leap Year
+Year 2005: Not a Leap Year
+Year 2006: Not a Leap Year
+Year 2007: Not a Leap Year
+Year 2008: Leap Year
+Year 2009: Not a Leap Year
+Year 2010: Not a Leap Year
+Year 2011: Not a Leap Year
+Year 2012: Leap Year
+Year 2013: Not a Leap Year
+Year 2014: Not a Leap Year
+Year 2015: Not a Leap Year
+Year 2016: Leap Year
+Year 2017: Not a Leap Year
+Year 2018: Not a Leap Year
+Year 2019: Not a Leap Year
+Year 2020: Leap Year
+Year 2021: Not a Leap Year
+Year 2022: Not a Leap Year
+Year 2023: Not a Leap Year
+Year 2024: Leap Year
+Year 2025: Not a Leap Year
+Year 2026: Not a Leap Year
+Year 2027: Not a Leap Year
+Year 2028: Leap Year
+Year 2029: Not a Leap Year
+Year 2030: Not a Leap Year
+Year 2031: Not a Leap Year
+Year 2032: Leap Year
+Year 2033: Not a Leap Year
+Year 2034: Not a Leap Year
+Year 2035: Not a Leap Year
+Year 2036: Leap Year
+Year 2037: Not a Leap Year
+Year 2038: Not a Leap Year
+Year 2039: Not a Leap Year
+Year 2040: Leap Year
+Year 2041: Not a Leap Year
+Year 2042: Not a Leap Year
+Year 2043: Not a Leap Year
+Year 2044: Leap Year
+Year 2045: Not a Leap Year
+Year 2046: Not a Leap Year
+Year 2047: Not a Leap Year
+Year 2048: Leap Year
+Year 2049: Not a Leap Year

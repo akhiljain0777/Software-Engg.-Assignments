@@ -1,0 +1,489 @@
+
+
+---Testing Operator++(int)
+Previous Date: 01-Jan-50
+Current Date: 08-Jan-50
+
+Previous Date: 01-Jan-96
+Current Date: 08-Jan-96
+
+Previous Date: 01-Jan-15
+Current Date: 08-Jan-15
+
+Previous Date: 01-Jan-16
+Current Date: 08-Jan-16
+
+Previous Date: 01-Jan-49
+Current Date: 08-Jan-49
+
+Previous Date: 01-Feb-50
+Current Date: 08-Feb-50
+
+Previous Date: 01-Feb-96
+Current Date: 08-Feb-96
+
+Previous Date: 01-Feb-15
+Current Date: 08-Feb-15
+
+Previous Date: 01-Feb-16
+Current Date: 08-Feb-16
+
+Previous Date: 01-Feb-49
+Current Date: 08-Feb-49
+
+Previous Date: 01-Apr-50
+Current Date: 08-Apr-50
+
+Previous Date: 01-Apr-96
+Current Date: 08-Apr-96
+
+Previous Date: 01-Apr-15
+Current Date: 08-Apr-15
+
+Previous Date: 01-Apr-16
+Current Date: 08-Apr-16
+
+Previous Date: 01-Apr-49
+Current Date: 08-Apr-49
+
+Previous Date: 01-Jul-50
+Current Date: 08-Jul-50
+
+Previous Date: 01-Jul-96
+Current Date: 08-Jul-96
+
+Previous Date: 01-Jul-15
+Current Date: 08-Jul-15
+
+Previous Date: 01-Jul-16
+Current Date: 08-Jul-16
+
+Previous Date: 01-Jul-49
+Current Date: 08-Jul-49
+
+Previous Date: 01-Aug-50
+Current Date: 08-Aug-50
+
+Previous Date: 01-Aug-96
+Current Date: 08-Aug-96
+
+Previous Date: 01-Aug-15
+Current Date: 08-Aug-15
+
+Previous Date: 01-Aug-16
+Current Date: 08-Aug-16
+
+Previous Date: 01-Aug-49
+Current Date: 08-Aug-49
+
+Previous Date: 01-Dec-50
+Current Date: 08-Dec-50
+
+Previous Date: 01-Dec-96
+Current Date: 08-Dec-96
+
+Previous Date: 01-Dec-15
+Current Date: 08-Dec-15
+
+Previous Date: 01-Dec-16
+Current Date: 08-Dec-16
+
+Previous Date: 01-Dec-49
+Current Date: 08-Dec-49
+
+Previous Date: 02-Jan-50
+Current Date: 09-Jan-50
+
+Previous Date: 02-Jan-96
+Current Date: 09-Jan-96
+
+Previous Date: 02-Jan-15
+Current Date: 09-Jan-15
+
+Previous Date: 02-Jan-16
+Current Date: 09-Jan-16
+
+Previous Date: 02-Jan-49
+Current Date: 09-Jan-49
+
+Previous Date: 02-Feb-50
+Current Date: 09-Feb-50
+
+Previous Date: 02-Feb-96
+Current Date: 09-Feb-96
+
+Previous Date: 02-Feb-15
+Current Date: 09-Feb-15
+
+Previous Date: 02-Feb-16
+Current Date: 09-Feb-16
+
+Previous Date: 02-Feb-49
+Current Date: 09-Feb-49
+
+Previous Date: 02-Apr-50
+Current Date: 09-Apr-50
+
+Previous Date: 02-Apr-96
+Current Date: 09-Apr-96
+
+Previous Date: 02-Apr-15
+Current Date: 09-Apr-15
+
+Previous Date: 02-Apr-16
+Current Date: 09-Apr-16
+
+Previous Date: 02-Apr-49
+Current Date: 09-Apr-49
+
+Previous Date: 02-Jul-50
+Current Date: 09-Jul-50
+
+Previous Date: 02-Jul-96
+Current Date: 09-Jul-96
+
+Previous Date: 02-Jul-15
+Current Date: 09-Jul-15
+
+Previous Date: 02-Jul-16
+Current Date: 09-Jul-16
+
+Previous Date: 02-Jul-49
+Current Date: 09-Jul-49
+
+Previous Date: 02-Aug-50
+Current Date: 09-Aug-50
+
+Previous Date: 02-Aug-96
+Current Date: 09-Aug-96
+
+Previous Date: 02-Aug-15
+Current Date: 09-Aug-15
+
+Previous Date: 02-Aug-16
+Current Date: 09-Aug-16
+
+Previous Date: 02-Aug-49
+Current Date: 09-Aug-49
+
+Previous Date: 02-Dec-50
+Current Date: 09-Dec-50
+
+Previous Date: 02-Dec-96
+Current Date: 09-Dec-96
+
+Previous Date: 02-Dec-15
+Current Date: 09-Dec-15
+
+Previous Date: 02-Dec-16
+Current Date: 09-Dec-16
+
+Previous Date: 02-Dec-49
+Current Date: 09-Dec-49
+
+Previous Date: 29-Jan-50
+Current Date: 05-Feb-50
+
+Previous Date: 29-Jan-96
+Current Date: 05-Feb-96
+
+Previous Date: 29-Jan-15
+Current Date: 05-Feb-15
+
+Previous Date: 29-Jan-16
+Current Date: 05-Feb-16
+
+Previous Date: 29-Jan-49
+Current Date: 05-Feb-49
+
+Previous Date: 29-Feb-96
+Current Date: 07-Mar-96
+
+Previous Date: 29-Feb-16
+Current Date: 07-Mar-16
+
+Previous Date: 29-Apr-50
+Current Date: 06-May-50
+
+Previous Date: 29-Apr-96
+Current Date: 06-May-96
+
+Previous Date: 29-Apr-15
+Current Date: 06-May-15
+
+Previous Date: 29-Apr-16
+Current Date: 06-May-16
+
+Previous Date: 29-Apr-49
+Current Date: 06-May-49
+
+Previous Date: 29-Jul-50
+Current Date: 05-Aug-50
+
+Previous Date: 29-Jul-96
+Current Date: 05-Aug-96
+
+Previous Date: 29-Jul-15
+Current Date: 05-Aug-15
+
+Previous Date: 29-Jul-16
+Current Date: 05-Aug-16
+
+Previous Date: 29-Jul-49
+Current Date: 05-Aug-49
+
+Previous Date: 29-Aug-50
+Current Date: 05-Sep-50
+
+Previous Date: 29-Aug-96
+Current Date: 05-Sep-96
+
+Previous Date: 29-Aug-15
+Current Date: 05-Sep-15
+
+Previous Date: 29-Aug-16
+Current Date: 05-Sep-16
+
+Previous Date: 29-Aug-49
+Current Date: 05-Sep-49
+
+Previous Date: 29-Dec-50
+Current Date: 05-Jan-51
+
+Previous Date: 29-Dec-96
+Current Date: 05-Jan-97
+
+Previous Date: 29-Dec-15
+Current Date: 05-Jan-16
+
+Previous Date: 29-Dec-16
+Current Date: 05-Jan-17
+
+Previous Date: 29-Dec-49
+Out of Range: Year must be <=2049
+
+Previous Date: 28-Jan-50
+Current Date: 04-Feb-50
+
+Previous Date: 28-Jan-96
+Current Date: 04-Feb-96
+
+Previous Date: 28-Jan-15
+Current Date: 04-Feb-15
+
+Previous Date: 28-Jan-16
+Current Date: 04-Feb-16
+
+Previous Date: 28-Jan-49
+Current Date: 04-Feb-49
+
+Previous Date: 28-Feb-50
+Current Date: 07-Mar-50
+
+Previous Date: 28-Feb-96
+Current Date: 06-Mar-96
+
+Previous Date: 28-Feb-15
+Current Date: 07-Mar-15
+
+Previous Date: 28-Feb-16
+Current Date: 06-Mar-16
+
+Previous Date: 28-Feb-49
+Current Date: 07-Mar-49
+
+Previous Date: 28-Apr-50
+Current Date: 05-May-50
+
+Previous Date: 28-Apr-96
+Current Date: 05-May-96
+
+Previous Date: 28-Apr-15
+Current Date: 05-May-15
+
+Previous Date: 28-Apr-16
+Current Date: 05-May-16
+
+Previous Date: 28-Apr-49
+Current Date: 05-May-49
+
+Previous Date: 28-Jul-50
+Current Date: 04-Aug-50
+
+Previous Date: 28-Jul-96
+Current Date: 04-Aug-96
+
+Previous Date: 28-Jul-15
+Current Date: 04-Aug-15
+
+Previous Date: 28-Jul-16
+Current Date: 04-Aug-16
+
+Previous Date: 28-Jul-49
+Current Date: 04-Aug-49
+
+Previous Date: 28-Aug-50
+Current Date: 04-Sep-50
+
+Previous Date: 28-Aug-96
+Current Date: 04-Sep-96
+
+Previous Date: 28-Aug-15
+Current Date: 04-Sep-15
+
+Previous Date: 28-Aug-16
+Current Date: 04-Sep-16
+
+Previous Date: 28-Aug-49
+Current Date: 04-Sep-49
+
+Previous Date: 28-Dec-50
+Current Date: 04-Jan-51
+
+Previous Date: 28-Dec-96
+Current Date: 04-Jan-97
+
+Previous Date: 28-Dec-15
+Current Date: 04-Jan-16
+
+Previous Date: 28-Dec-16
+Current Date: 04-Jan-17
+
+Previous Date: 28-Dec-49
+Out of Range: Year must be <=2049
+
+Previous Date: 30-Jan-50
+Current Date: 06-Feb-50
+
+Previous Date: 30-Jan-96
+Current Date: 06-Feb-96
+
+Previous Date: 30-Jan-15
+Current Date: 06-Feb-15
+
+Previous Date: 30-Jan-16
+Current Date: 06-Feb-16
+
+Previous Date: 30-Jan-49
+Current Date: 06-Feb-49
+
+Previous Date: 30-Apr-50
+Current Date: 07-May-50
+
+Previous Date: 30-Apr-96
+Current Date: 07-May-96
+
+Previous Date: 30-Apr-15
+Current Date: 07-May-15
+
+Previous Date: 30-Apr-16
+Current Date: 07-May-16
+
+Previous Date: 30-Apr-49
+Current Date: 07-May-49
+
+Previous Date: 30-Jul-50
+Current Date: 06-Aug-50
+
+Previous Date: 30-Jul-96
+Current Date: 06-Aug-96
+
+Previous Date: 30-Jul-15
+Current Date: 06-Aug-15
+
+Previous Date: 30-Jul-16
+Current Date: 06-Aug-16
+
+Previous Date: 30-Jul-49
+Current Date: 06-Aug-49
+
+Previous Date: 30-Aug-50
+Current Date: 06-Sep-50
+
+Previous Date: 30-Aug-96
+Current Date: 06-Sep-96
+
+Previous Date: 30-Aug-15
+Current Date: 06-Sep-15
+
+Previous Date: 30-Aug-16
+Current Date: 06-Sep-16
+
+Previous Date: 30-Aug-49
+Current Date: 06-Sep-49
+
+Previous Date: 30-Dec-50
+Current Date: 06-Jan-51
+
+Previous Date: 30-Dec-96
+Current Date: 06-Jan-97
+
+Previous Date: 30-Dec-15
+Current Date: 06-Jan-16
+
+Previous Date: 30-Dec-16
+Current Date: 06-Jan-17
+
+Previous Date: 30-Dec-49
+Out of Range: Year must be <=2049
+
+Previous Date: 31-Jan-50
+Current Date: 07-Feb-50
+
+Previous Date: 31-Jan-96
+Current Date: 07-Feb-96
+
+Previous Date: 31-Jan-15
+Current Date: 07-Feb-15
+
+Previous Date: 31-Jan-16
+Current Date: 07-Feb-16
+
+Previous Date: 31-Jan-49
+Current Date: 07-Feb-49
+
+Previous Date: 31-Jul-50
+Current Date: 07-Aug-50
+
+Previous Date: 31-Jul-96
+Current Date: 07-Aug-96
+
+Previous Date: 31-Jul-15
+Current Date: 07-Aug-15
+
+Previous Date: 31-Jul-16
+Current Date: 07-Aug-16
+
+Previous Date: 31-Jul-49
+Current Date: 07-Aug-49
+
+Previous Date: 31-Aug-50
+Current Date: 07-Sep-50
+
+Previous Date: 31-Aug-96
+Current Date: 07-Sep-96
+
+Previous Date: 31-Aug-15
+Current Date: 07-Sep-15
+
+Previous Date: 31-Aug-16
+Current Date: 07-Sep-16
+
+Previous Date: 31-Aug-49
+Current Date: 07-Sep-49
+
+Previous Date: 31-Dec-50
+Current Date: 07-Jan-51
+
+Previous Date: 31-Dec-96
+Current Date: 07-Jan-97
+
+Previous Date: 31-Dec-15
+Current Date: 07-Jan-16
+
+Previous Date: 31-Dec-16
+Current Date: 07-Jan-17
+
+Previous Date: 31-Dec-49
+Out of Range: Year must be <=2049
+

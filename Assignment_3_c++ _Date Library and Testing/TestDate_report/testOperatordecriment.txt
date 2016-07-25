@@ -1,0 +1,984 @@
+
+
+---Testing Operator--(int)
+Previous Date:(Testing A--) 01-Jan-50
+Out of Range: Year must be >=1950
+
+Previous Date:(Testing A--) 01-Jan-80
+Current Date: 25-Dec-79
+
+Previous Date:(Testing A--) 01-Jan-96
+Current Date: 25-Dec-95
+
+Previous Date:(Testing A--) 01-Jan-16
+Current Date: 25-Dec-15
+
+Previous Date:(Testing A--) 01-Jan-49
+Current Date: 25-Dec-48
+
+Previous Date:(Testing A--) 01-Feb-50
+Current Date: 25-Jan-50
+
+Previous Date:(Testing A--) 01-Feb-80
+Current Date: 25-Jan-80
+
+Previous Date:(Testing A--) 01-Feb-96
+Current Date: 25-Jan-96
+
+Previous Date:(Testing A--) 01-Feb-16
+Current Date: 25-Jan-16
+
+Previous Date:(Testing A--) 01-Feb-49
+Current Date: 25-Jan-49
+
+Previous Date:(Testing A--) 01-Apr-50
+Current Date: 25-Mar-50
+
+Previous Date:(Testing A--) 01-Apr-80
+Current Date: 25-Mar-80
+
+Previous Date:(Testing A--) 01-Apr-96
+Current Date: 25-Mar-96
+
+Previous Date:(Testing A--) 01-Apr-16
+Current Date: 25-Mar-16
+
+Previous Date:(Testing A--) 01-Apr-49
+Current Date: 25-Mar-49
+
+Previous Date:(Testing A--) 01-Jul-50
+Current Date: 24-Jun-50
+
+Previous Date:(Testing A--) 01-Jul-80
+Current Date: 24-Jun-80
+
+Previous Date:(Testing A--) 01-Jul-96
+Current Date: 24-Jun-96
+
+Previous Date:(Testing A--) 01-Jul-16
+Current Date: 24-Jun-16
+
+Previous Date:(Testing A--) 01-Jul-49
+Current Date: 24-Jun-49
+
+Previous Date:(Testing A--) 01-Aug-50
+Current Date: 25-Jul-50
+
+Previous Date:(Testing A--) 01-Aug-80
+Current Date: 25-Jul-80
+
+Previous Date:(Testing A--) 01-Aug-96
+Current Date: 25-Jul-96
+
+Previous Date:(Testing A--) 01-Aug-16
+Current Date: 25-Jul-16
+
+Previous Date:(Testing A--) 01-Aug-49
+Current Date: 25-Jul-49
+
+Previous Date:(Testing A--) 01-Dec-50
+Current Date: 24-Nov-50
+
+Previous Date:(Testing A--) 01-Dec-80
+Current Date: 24-Nov-80
+
+Previous Date:(Testing A--) 01-Dec-96
+Current Date: 24-Nov-96
+
+Previous Date:(Testing A--) 01-Dec-16
+Current Date: 24-Nov-16
+
+Previous Date:(Testing A--) 01-Dec-49
+Current Date: 24-Nov-49
+
+Previous Date:(Testing A--) 02-Jan-50
+Out of Range: Year must be >=1950
+
+Previous Date:(Testing A--) 02-Jan-80
+Current Date: 26-Dec-79
+
+Previous Date:(Testing A--) 02-Jan-96
+Current Date: 26-Dec-95
+
+Previous Date:(Testing A--) 02-Jan-16
+Current Date: 26-Dec-15
+
+Previous Date:(Testing A--) 02-Jan-49
+Current Date: 26-Dec-48
+
+Previous Date:(Testing A--) 02-Feb-50
+Current Date: 26-Jan-50
+
+Previous Date:(Testing A--) 02-Feb-80
+Current Date: 26-Jan-80
+
+Previous Date:(Testing A--) 02-Feb-96
+Current Date: 26-Jan-96
+
+Previous Date:(Testing A--) 02-Feb-16
+Current Date: 26-Jan-16
+
+Previous Date:(Testing A--) 02-Feb-49
+Current Date: 26-Jan-49
+
+Previous Date:(Testing A--) 02-Apr-50
+Current Date: 26-Mar-50
+
+Previous Date:(Testing A--) 02-Apr-80
+Current Date: 26-Mar-80
+
+Previous Date:(Testing A--) 02-Apr-96
+Current Date: 26-Mar-96
+
+Previous Date:(Testing A--) 02-Apr-16
+Current Date: 26-Mar-16
+
+Previous Date:(Testing A--) 02-Apr-49
+Current Date: 26-Mar-49
+
+Previous Date:(Testing A--) 02-Jul-50
+Current Date: 25-Jun-50
+
+Previous Date:(Testing A--) 02-Jul-80
+Current Date: 25-Jun-80
+
+Previous Date:(Testing A--) 02-Jul-96
+Current Date: 25-Jun-96
+
+Previous Date:(Testing A--) 02-Jul-16
+Current Date: 25-Jun-16
+
+Previous Date:(Testing A--) 02-Jul-49
+Current Date: 25-Jun-49
+
+Previous Date:(Testing A--) 02-Aug-50
+Current Date: 26-Jul-50
+
+Previous Date:(Testing A--) 02-Aug-80
+Current Date: 26-Jul-80
+
+Previous Date:(Testing A--) 02-Aug-96
+Current Date: 26-Jul-96
+
+Previous Date:(Testing A--) 02-Aug-16
+Current Date: 26-Jul-16
+
+Previous Date:(Testing A--) 02-Aug-49
+Current Date: 26-Jul-49
+
+Previous Date:(Testing A--) 02-Dec-50
+Current Date: 25-Nov-50
+
+Previous Date:(Testing A--) 02-Dec-80
+Current Date: 25-Nov-80
+
+Previous Date:(Testing A--) 02-Dec-96
+Current Date: 25-Nov-96
+
+Previous Date:(Testing A--) 02-Dec-16
+Current Date: 25-Nov-16
+
+Previous Date:(Testing A--) 02-Dec-49
+Current Date: 25-Nov-49
+
+Previous Date:(Testing A--) 29-Jan-50
+Current Date: 22-Jan-50
+
+Previous Date:(Testing A--) 29-Jan-80
+Current Date: 22-Jan-80
+
+Previous Date:(Testing A--) 29-Jan-96
+Current Date: 22-Jan-96
+
+Previous Date:(Testing A--) 29-Jan-16
+Current Date: 22-Jan-16
+
+Previous Date:(Testing A--) 29-Jan-49
+Current Date: 22-Jan-49
+
+Previous Date:(Testing A--) 29-Feb-80
+Current Date: 22-Feb-80
+
+Previous Date:(Testing A--) 29-Feb-96
+Current Date: 22-Feb-96
+
+Previous Date:(Testing A--) 29-Feb-16
+Current Date: 22-Feb-16
+
+Previous Date:(Testing A--) 29-Apr-50
+Current Date: 22-Apr-50
+
+Previous Date:(Testing A--) 29-Apr-80
+Current Date: 22-Apr-80
+
+Previous Date:(Testing A--) 29-Apr-96
+Current Date: 22-Apr-96
+
+Previous Date:(Testing A--) 29-Apr-16
+Current Date: 22-Apr-16
+
+Previous Date:(Testing A--) 29-Apr-49
+Current Date: 22-Apr-49
+
+Previous Date:(Testing A--) 29-Jul-50
+Current Date: 22-Jul-50
+
+Previous Date:(Testing A--) 29-Jul-80
+Current Date: 22-Jul-80
+
+Previous Date:(Testing A--) 29-Jul-96
+Current Date: 22-Jul-96
+
+Previous Date:(Testing A--) 29-Jul-16
+Current Date: 22-Jul-16
+
+Previous Date:(Testing A--) 29-Jul-49
+Current Date: 22-Jul-49
+
+Previous Date:(Testing A--) 29-Aug-50
+Current Date: 22-Aug-50
+
+Previous Date:(Testing A--) 29-Aug-80
+Current Date: 22-Aug-80
+
+Previous Date:(Testing A--) 29-Aug-96
+Current Date: 22-Aug-96
+
+Previous Date:(Testing A--) 29-Aug-16
+Current Date: 22-Aug-16
+
+Previous Date:(Testing A--) 29-Aug-49
+Current Date: 22-Aug-49
+
+Previous Date:(Testing A--) 29-Dec-50
+Current Date: 22-Dec-50
+
+Previous Date:(Testing A--) 29-Dec-80
+Current Date: 22-Dec-80
+
+Previous Date:(Testing A--) 29-Dec-96
+Current Date: 22-Dec-96
+
+Previous Date:(Testing A--) 29-Dec-16
+Current Date: 22-Dec-16
+
+Previous Date:(Testing A--) 29-Dec-49
+Current Date: 22-Dec-49
+
+Previous Date:(Testing A--) 28-Jan-50
+Current Date: 21-Jan-50
+
+Previous Date:(Testing A--) 28-Jan-80
+Current Date: 21-Jan-80
+
+Previous Date:(Testing A--) 28-Jan-96
+Current Date: 21-Jan-96
+
+Previous Date:(Testing A--) 28-Jan-16
+Current Date: 21-Jan-16
+
+Previous Date:(Testing A--) 28-Jan-49
+Current Date: 21-Jan-49
+
+Previous Date:(Testing A--) 28-Feb-50
+Current Date: 21-Feb-50
+
+Previous Date:(Testing A--) 28-Feb-80
+Current Date: 21-Feb-80
+
+Previous Date:(Testing A--) 28-Feb-96
+Current Date: 21-Feb-96
+
+Previous Date:(Testing A--) 28-Feb-16
+Current Date: 21-Feb-16
+
+Previous Date:(Testing A--) 28-Feb-49
+Current Date: 21-Feb-49
+
+Previous Date:(Testing A--) 28-Apr-50
+Current Date: 21-Apr-50
+
+Previous Date:(Testing A--) 28-Apr-80
+Current Date: 21-Apr-80
+
+Previous Date:(Testing A--) 28-Apr-96
+Current Date: 21-Apr-96
+
+Previous Date:(Testing A--) 28-Apr-16
+Current Date: 21-Apr-16
+
+Previous Date:(Testing A--) 28-Apr-49
+Current Date: 21-Apr-49
+
+Previous Date:(Testing A--) 28-Jul-50
+Current Date: 21-Jul-50
+
+Previous Date:(Testing A--) 28-Jul-80
+Current Date: 21-Jul-80
+
+Previous Date:(Testing A--) 28-Jul-96
+Current Date: 21-Jul-96
+
+Previous Date:(Testing A--) 28-Jul-16
+Current Date: 21-Jul-16
+
+Previous Date:(Testing A--) 28-Jul-49
+Current Date: 21-Jul-49
+
+Previous Date:(Testing A--) 28-Aug-50
+Current Date: 21-Aug-50
+
+Previous Date:(Testing A--) 28-Aug-80
+Current Date: 21-Aug-80
+
+Previous Date:(Testing A--) 28-Aug-96
+Current Date: 21-Aug-96
+
+Previous Date:(Testing A--) 28-Aug-16
+Current Date: 21-Aug-16
+
+Previous Date:(Testing A--) 28-Aug-49
+Current Date: 21-Aug-49
+
+Previous Date:(Testing A--) 28-Dec-50
+Current Date: 21-Dec-50
+
+Previous Date:(Testing A--) 28-Dec-80
+Current Date: 21-Dec-80
+
+Previous Date:(Testing A--) 28-Dec-96
+Current Date: 21-Dec-96
+
+Previous Date:(Testing A--) 28-Dec-16
+Current Date: 21-Dec-16
+
+Previous Date:(Testing A--) 28-Dec-49
+Current Date: 21-Dec-49
+
+Previous Date:(Testing A--) 30-Jan-50
+Current Date: 23-Jan-50
+
+Previous Date:(Testing A--) 30-Jan-80
+Current Date: 23-Jan-80
+
+Previous Date:(Testing A--) 30-Jan-96
+Current Date: 23-Jan-96
+
+Previous Date:(Testing A--) 30-Jan-16
+Current Date: 23-Jan-16
+
+Previous Date:(Testing A--) 30-Jan-49
+Current Date: 23-Jan-49
+
+Previous Date:(Testing A--) 30-Apr-50
+Current Date: 23-Apr-50
+
+Previous Date:(Testing A--) 30-Apr-80
+Current Date: 23-Apr-80
+
+Previous Date:(Testing A--) 30-Apr-96
+Current Date: 23-Apr-96
+
+Previous Date:(Testing A--) 30-Apr-16
+Current Date: 23-Apr-16
+
+Previous Date:(Testing A--) 30-Apr-49
+Current Date: 23-Apr-49
+
+Previous Date:(Testing A--) 30-Jul-50
+Current Date: 23-Jul-50
+
+Previous Date:(Testing A--) 30-Jul-80
+Current Date: 23-Jul-80
+
+Previous Date:(Testing A--) 30-Jul-96
+Current Date: 23-Jul-96
+
+Previous Date:(Testing A--) 30-Jul-16
+Current Date: 23-Jul-16
+
+Previous Date:(Testing A--) 30-Jul-49
+Current Date: 23-Jul-49
+
+Previous Date:(Testing A--) 30-Aug-50
+Current Date: 23-Aug-50
+
+Previous Date:(Testing A--) 30-Aug-80
+Current Date: 23-Aug-80
+
+Previous Date:(Testing A--) 30-Aug-96
+Current Date: 23-Aug-96
+
+Previous Date:(Testing A--) 30-Aug-16
+Current Date: 23-Aug-16
+
+Previous Date:(Testing A--) 30-Aug-49
+Current Date: 23-Aug-49
+
+Previous Date:(Testing A--) 30-Dec-50
+Current Date: 23-Dec-50
+
+Previous Date:(Testing A--) 30-Dec-80
+Current Date: 23-Dec-80
+
+Previous Date:(Testing A--) 30-Dec-96
+Current Date: 23-Dec-96
+
+Previous Date:(Testing A--) 30-Dec-16
+Current Date: 23-Dec-16
+
+Previous Date:(Testing A--) 30-Dec-49
+Current Date: 23-Dec-49
+
+Previous Date:(Testing A--) 31-Jan-50
+Current Date: 24-Jan-50
+
+Previous Date:(Testing A--) 31-Jan-80
+Current Date: 24-Jan-80
+
+Previous Date:(Testing A--) 31-Jan-96
+Current Date: 24-Jan-96
+
+Previous Date:(Testing A--) 31-Jan-16
+Current Date: 24-Jan-16
+
+Previous Date:(Testing A--) 31-Jan-49
+Current Date: 24-Jan-49
+
+Previous Date:(Testing A--) 31-Jul-50
+Current Date: 24-Jul-50
+
+Previous Date:(Testing A--) 31-Jul-80
+Current Date: 24-Jul-80
+
+Previous Date:(Testing A--) 31-Jul-96
+Current Date: 24-Jul-96
+
+Previous Date:(Testing A--) 31-Jul-16
+Current Date: 24-Jul-16
+
+Previous Date:(Testing A--) 31-Jul-49
+Current Date: 24-Jul-49
+
+Previous Date:(Testing A--) 31-Aug-50
+Current Date: 24-Aug-50
+
+Previous Date:(Testing A--) 31-Aug-80
+Current Date: 24-Aug-80
+
+Previous Date:(Testing A--) 31-Aug-96
+Current Date: 24-Aug-96
+
+Previous Date:(Testing A--) 31-Aug-16
+Current Date: 24-Aug-16
+
+Previous Date:(Testing A--) 31-Aug-49
+Current Date: 24-Aug-49
+
+Previous Date:(Testing A--) 31-Dec-50
+Current Date: 24-Dec-50
+
+Previous Date:(Testing A--) 31-Dec-80
+Current Date: 24-Dec-80
+
+Previous Date:(Testing A--) 31-Dec-96
+Current Date: 24-Dec-96
+
+Previous Date:(Testing A--) 31-Dec-16
+Current Date: 24-Dec-16
+
+Previous Date:(Testing A--) 31-Dec-49
+Current Date: 24-Dec-49
+
+
+
+---Testing Operator--()
+Previous Date: 01-Jan-50
+Out of Range: Year must be >=1950
+
+Previous Date: 01-Jan-80
+Current Date(--A): 31-Dec-79
+
+Previous Date: 01-Jan-96
+Current Date(--A): 31-Dec-95
+
+Previous Date: 01-Jan-16
+Current Date(--A): 31-Dec-15
+
+Previous Date: 01-Jan-49
+Current Date(--A): 31-Dec-48
+
+Previous Date: 01-Feb-50
+Current Date(--A): 31-Jan-50
+
+Previous Date: 01-Feb-80
+Current Date(--A): 31-Jan-80
+
+Previous Date: 01-Feb-96
+Current Date(--A): 31-Jan-96
+
+Previous Date: 01-Feb-16
+Current Date(--A): 31-Jan-16
+
+Previous Date: 01-Feb-49
+Current Date(--A): 31-Jan-49
+
+Previous Date: 01-Apr-50
+Current Date(--A): 31-Mar-50
+
+Previous Date: 01-Apr-80
+Current Date(--A): 31-Mar-80
+
+Previous Date: 01-Apr-96
+Current Date(--A): 31-Mar-96
+
+Previous Date: 01-Apr-16
+Current Date(--A): 31-Mar-16
+
+Previous Date: 01-Apr-49
+Current Date(--A): 31-Mar-49
+
+Previous Date: 01-Jul-50
+Current Date(--A): 30-Jun-50
+
+Previous Date: 01-Jul-80
+Current Date(--A): 30-Jun-80
+
+Previous Date: 01-Jul-96
+Current Date(--A): 30-Jun-96
+
+Previous Date: 01-Jul-16
+Current Date(--A): 30-Jun-16
+
+Previous Date: 01-Jul-49
+Current Date(--A): 30-Jun-49
+
+Previous Date: 01-Aug-50
+Current Date(--A): 31-Jul-50
+
+Previous Date: 01-Aug-80
+Current Date(--A): 31-Jul-80
+
+Previous Date: 01-Aug-96
+Current Date(--A): 31-Jul-96
+
+Previous Date: 01-Aug-16
+Current Date(--A): 31-Jul-16
+
+Previous Date: 01-Aug-49
+Current Date(--A): 31-Jul-49
+
+Previous Date: 01-Dec-50
+Current Date(--A): 30-Nov-50
+
+Previous Date: 01-Dec-80
+Current Date(--A): 30-Nov-80
+
+Previous Date: 01-Dec-96
+Current Date(--A): 30-Nov-96
+
+Previous Date: 01-Dec-16
+Current Date(--A): 30-Nov-16
+
+Previous Date: 01-Dec-49
+Current Date(--A): 30-Nov-49
+
+Previous Date: 02-Jan-50
+Current Date(--A): 01-Jan-50
+
+Previous Date: 02-Jan-80
+Current Date(--A): 01-Jan-80
+
+Previous Date: 02-Jan-96
+Current Date(--A): 01-Jan-96
+
+Previous Date: 02-Jan-16
+Current Date(--A): 01-Jan-16
+
+Previous Date: 02-Jan-49
+Current Date(--A): 01-Jan-49
+
+Previous Date: 02-Feb-50
+Current Date(--A): 01-Feb-50
+
+Previous Date: 02-Feb-80
+Current Date(--A): 01-Feb-80
+
+Previous Date: 02-Feb-96
+Current Date(--A): 01-Feb-96
+
+Previous Date: 02-Feb-16
+Current Date(--A): 01-Feb-16
+
+Previous Date: 02-Feb-49
+Current Date(--A): 01-Feb-49
+
+Previous Date: 02-Apr-50
+Current Date(--A): 01-Apr-50
+
+Previous Date: 02-Apr-80
+Current Date(--A): 01-Apr-80
+
+Previous Date: 02-Apr-96
+Current Date(--A): 01-Apr-96
+
+Previous Date: 02-Apr-16
+Current Date(--A): 01-Apr-16
+
+Previous Date: 02-Apr-49
+Current Date(--A): 01-Apr-49
+
+Previous Date: 02-Jul-50
+Current Date(--A): 01-Jul-50
+
+Previous Date: 02-Jul-80
+Current Date(--A): 01-Jul-80
+
+Previous Date: 02-Jul-96
+Current Date(--A): 01-Jul-96
+
+Previous Date: 02-Jul-16
+Current Date(--A): 01-Jul-16
+
+Previous Date: 02-Jul-49
+Current Date(--A): 01-Jul-49
+
+Previous Date: 02-Aug-50
+Current Date(--A): 01-Aug-50
+
+Previous Date: 02-Aug-80
+Current Date(--A): 01-Aug-80
+
+Previous Date: 02-Aug-96
+Current Date(--A): 01-Aug-96
+
+Previous Date: 02-Aug-16
+Current Date(--A): 01-Aug-16
+
+Previous Date: 02-Aug-49
+Current Date(--A): 01-Aug-49
+
+Previous Date: 02-Dec-50
+Current Date(--A): 01-Dec-50
+
+Previous Date: 02-Dec-80
+Current Date(--A): 01-Dec-80
+
+Previous Date: 02-Dec-96
+Current Date(--A): 01-Dec-96
+
+Previous Date: 02-Dec-16
+Current Date(--A): 01-Dec-16
+
+Previous Date: 02-Dec-49
+Current Date(--A): 01-Dec-49
+
+Previous Date: 29-Jan-50
+Current Date(--A): 28-Jan-50
+
+Previous Date: 29-Jan-80
+Current Date(--A): 28-Jan-80
+
+Previous Date: 29-Jan-96
+Current Date(--A): 28-Jan-96
+
+Previous Date: 29-Jan-16
+Current Date(--A): 28-Jan-16
+
+Previous Date: 29-Jan-49
+Current Date(--A): 28-Jan-49
+
+Previous Date: 29-Feb-80
+Current Date(--A): 28-Feb-80
+
+Previous Date: 29-Feb-96
+Current Date(--A): 28-Feb-96
+
+Previous Date: 29-Feb-16
+Current Date(--A): 28-Feb-16
+
+Previous Date: 29-Apr-50
+Current Date(--A): 28-Apr-50
+
+Previous Date: 29-Apr-80
+Current Date(--A): 28-Apr-80
+
+Previous Date: 29-Apr-96
+Current Date(--A): 28-Apr-96
+
+Previous Date: 29-Apr-16
+Current Date(--A): 28-Apr-16
+
+Previous Date: 29-Apr-49
+Current Date(--A): 28-Apr-49
+
+Previous Date: 29-Jul-50
+Current Date(--A): 28-Jul-50
+
+Previous Date: 29-Jul-80
+Current Date(--A): 28-Jul-80
+
+Previous Date: 29-Jul-96
+Current Date(--A): 28-Jul-96
+
+Previous Date: 29-Jul-16
+Current Date(--A): 28-Jul-16
+
+Previous Date: 29-Jul-49
+Current Date(--A): 28-Jul-49
+
+Previous Date: 29-Aug-50
+Current Date(--A): 28-Aug-50
+
+Previous Date: 29-Aug-80
+Current Date(--A): 28-Aug-80
+
+Previous Date: 29-Aug-96
+Current Date(--A): 28-Aug-96
+
+Previous Date: 29-Aug-16
+Current Date(--A): 28-Aug-16
+
+Previous Date: 29-Aug-49
+Current Date(--A): 28-Aug-49
+
+Previous Date: 29-Dec-50
+Current Date(--A): 28-Dec-50
+
+Previous Date: 29-Dec-80
+Current Date(--A): 28-Dec-80
+
+Previous Date: 29-Dec-96
+Current Date(--A): 28-Dec-96
+
+Previous Date: 29-Dec-16
+Current Date(--A): 28-Dec-16
+
+Previous Date: 29-Dec-49
+Current Date(--A): 28-Dec-49
+
+Previous Date: 28-Jan-50
+Current Date(--A): 27-Jan-50
+
+Previous Date: 28-Jan-80
+Current Date(--A): 27-Jan-80
+
+Previous Date: 28-Jan-96
+Current Date(--A): 27-Jan-96
+
+Previous Date: 28-Jan-16
+Current Date(--A): 27-Jan-16
+
+Previous Date: 28-Jan-49
+Current Date(--A): 27-Jan-49
+
+Previous Date: 28-Feb-50
+Current Date(--A): 27-Feb-50
+
+Previous Date: 28-Feb-80
+Current Date(--A): 27-Feb-80
+
+Previous Date: 28-Feb-96
+Current Date(--A): 27-Feb-96
+
+Previous Date: 28-Feb-16
+Current Date(--A): 27-Feb-16
+
+Previous Date: 28-Feb-49
+Current Date(--A): 27-Feb-49
+
+Previous Date: 28-Apr-50
+Current Date(--A): 27-Apr-50
+
+Previous Date: 28-Apr-80
+Current Date(--A): 27-Apr-80
+
+Previous Date: 28-Apr-96
+Current Date(--A): 27-Apr-96
+
+Previous Date: 28-Apr-16
+Current Date(--A): 27-Apr-16
+
+Previous Date: 28-Apr-49
+Current Date(--A): 27-Apr-49
+
+Previous Date: 28-Jul-50
+Current Date(--A): 27-Jul-50
+
+Previous Date: 28-Jul-80
+Current Date(--A): 27-Jul-80
+
+Previous Date: 28-Jul-96
+Current Date(--A): 27-Jul-96
+
+Previous Date: 28-Jul-16
+Current Date(--A): 27-Jul-16
+
+Previous Date: 28-Jul-49
+Current Date(--A): 27-Jul-49
+
+Previous Date: 28-Aug-50
+Current Date(--A): 27-Aug-50
+
+Previous Date: 28-Aug-80
+Current Date(--A): 27-Aug-80
+
+Previous Date: 28-Aug-96
+Current Date(--A): 27-Aug-96
+
+Previous Date: 28-Aug-16
+Current Date(--A): 27-Aug-16
+
+Previous Date: 28-Aug-49
+Current Date(--A): 27-Aug-49
+
+Previous Date: 28-Dec-50
+Current Date(--A): 27-Dec-50
+
+Previous Date: 28-Dec-80
+Current Date(--A): 27-Dec-80
+
+Previous Date: 28-Dec-96
+Current Date(--A): 27-Dec-96
+
+Previous Date: 28-Dec-16
+Current Date(--A): 27-Dec-16
+
+Previous Date: 28-Dec-49
+Current Date(--A): 27-Dec-49
+
+Previous Date: 30-Jan-50
+Current Date(--A): 29-Jan-50
+
+Previous Date: 30-Jan-80
+Current Date(--A): 29-Jan-80
+
+Previous Date: 30-Jan-96
+Current Date(--A): 29-Jan-96
+
+Previous Date: 30-Jan-16
+Current Date(--A): 29-Jan-16
+
+Previous Date: 30-Jan-49
+Current Date(--A): 29-Jan-49
+
+Previous Date: 30-Apr-50
+Current Date(--A): 29-Apr-50
+
+Previous Date: 30-Apr-80
+Current Date(--A): 29-Apr-80
+
+Previous Date: 30-Apr-96
+Current Date(--A): 29-Apr-96
+
+Previous Date: 30-Apr-16
+Current Date(--A): 29-Apr-16
+
+Previous Date: 30-Apr-49
+Current Date(--A): 29-Apr-49
+
+Previous Date: 30-Jul-50
+Current Date(--A): 29-Jul-50
+
+Previous Date: 30-Jul-80
+Current Date(--A): 29-Jul-80
+
+Previous Date: 30-Jul-96
+Current Date(--A): 29-Jul-96
+
+Previous Date: 30-Jul-16
+Current Date(--A): 29-Jul-16
+
+Previous Date: 30-Jul-49
+Current Date(--A): 29-Jul-49
+
+Previous Date: 30-Aug-50
+Current Date(--A): 29-Aug-50
+
+Previous Date: 30-Aug-80
+Current Date(--A): 29-Aug-80
+
+Previous Date: 30-Aug-96
+Current Date(--A): 29-Aug-96
+
+Previous Date: 30-Aug-16
+Current Date(--A): 29-Aug-16
+
+Previous Date: 30-Aug-49
+Current Date(--A): 29-Aug-49
+
+Previous Date: 30-Dec-50
+Current Date(--A): 29-Dec-50
+
+Previous Date: 30-Dec-80
+Current Date(--A): 29-Dec-80
+
+Previous Date: 30-Dec-96
+Current Date(--A): 29-Dec-96
+
+Previous Date: 30-Dec-16
+Current Date(--A): 29-Dec-16
+
+Previous Date: 30-Dec-49
+Current Date(--A): 29-Dec-49
+
+Previous Date: 31-Jan-50
+Current Date(--A): 30-Jan-50
+
+Previous Date: 31-Jan-80
+Current Date(--A): 30-Jan-80
+
+Previous Date: 31-Jan-96
+Current Date(--A): 30-Jan-96
+
+Previous Date: 31-Jan-16
+Current Date(--A): 30-Jan-16
+
+Previous Date: 31-Jan-49
+Current Date(--A): 30-Jan-49
+
+Previous Date: 31-Jul-50
+Current Date(--A): 30-Jul-50
+
+Previous Date: 31-Jul-80
+Current Date(--A): 30-Jul-80
+
+Previous Date: 31-Jul-96
+Current Date(--A): 30-Jul-96
+
+Previous Date: 31-Jul-16
+Current Date(--A): 30-Jul-16
+
+Previous Date: 31-Jul-49
+Current Date(--A): 30-Jul-49
+
+Previous Date: 31-Aug-50
+Current Date(--A): 30-Aug-50
+
+Previous Date: 31-Aug-80
+Current Date(--A): 30-Aug-80
+
+Previous Date: 31-Aug-96
+Current Date(--A): 30-Aug-96
+
+Previous Date: 31-Aug-16
+Current Date(--A): 30-Aug-16
+
+Previous Date: 31-Aug-49
+Current Date(--A): 30-Aug-49
+
+Previous Date: 31-Dec-50
+Current Date(--A): 30-Dec-50
+
+Previous Date: 31-Dec-80
+Current Date(--A): 30-Dec-80
+
+Previous Date: 31-Dec-96
+Current Date(--A): 30-Dec-96
+
+Previous Date: 31-Dec-16
+Current Date(--A): 30-Dec-16
+
+Previous Date: 31-Dec-49
+Current Date(--A): 30-Dec-49
+

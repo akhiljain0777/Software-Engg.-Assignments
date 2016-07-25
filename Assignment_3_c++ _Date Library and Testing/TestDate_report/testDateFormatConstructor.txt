@@ -1,0 +1,682 @@
+---Testing Date Format---
+
+---Testing DateFormat(const char*,const char*,const char*) Constructor---
+Input( 0-0-0) Date Format Stored 0-0-0
+Input( 0-0-y) Invalid Argument: Invalid Year Format
+Input( 0-0-yy) Date Format Stored 0-0-yy
+Input( 0-0-yyy) Invalid Argument: Invalid Year Format
+Input( 0-0-yyyy) Date Format Stored 0-0-yyyy
+Input( 0-0-dddd) Invalid Argument: Invalid Year Format
+Input( 0-0-abd) Invalid Argument: Invalid Year Format
+Input( 0-m-0) Date Format Stored 0-m-0
+Input( 0-m-y) Invalid Argument: Invalid Year Format
+Input( 0-m-yy) Date Format Stored 0-m-yy
+Input( 0-m-yyy) Invalid Argument: Invalid Year Format
+Input( 0-m-yyyy) Date Format Stored 0-m-yyyy
+Input( 0-m-dddd) Invalid Argument: Invalid Year Format
+Input( 0-m-abd) Invalid Argument: Invalid Year Format
+Input( 0-mm-0) Date Format Stored 0-mm-0
+Input( 0-mm-y) Invalid Argument: Invalid Year Format
+Input( 0-mm-yy) Date Format Stored 0-mm-yy
+Input( 0-mm-yyy) Invalid Argument: Invalid Year Format
+Input( 0-mm-yyyy) Date Format Stored 0-mm-yyyy
+Input( 0-mm-dddd) Invalid Argument: Invalid Year Format
+Input( 0-mm-abd) Invalid Argument: Invalid Year Format
+Input( 0-mmm-0) Date Format Stored 0-mmm-0
+Input( 0-mmm-y) Invalid Argument: Invalid Year Format
+Input( 0-mmm-yy) Date Format Stored 0-mmm-yy
+Input( 0-mmm-yyy) Invalid Argument: Invalid Year Format
+Input( 0-mmm-yyyy) Date Format Stored 0-mmm-yyyy
+Input( 0-mmm-dddd) Invalid Argument: Invalid Year Format
+Input( 0-mmm-abd) Invalid Argument: Invalid Year Format
+Input( 0-mmmm-0) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-y) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-yy) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( 0-mmmm-abd) Invalid Argument: Invalid Month Format
+Input( 0-dd-0) Invalid Argument: Invalid Month Format
+Input( 0-dd-y) Invalid Argument: Invalid Month Format
+Input( 0-dd-yy) Invalid Argument: Invalid Month Format
+Input( 0-dd-yyy) Invalid Argument: Invalid Month Format
+Input( 0-dd-yyyy) Invalid Argument: Invalid Month Format
+Input( 0-dd-dddd) Invalid Argument: Invalid Month Format
+Input( 0-dd-abd) Invalid Argument: Invalid Month Format
+Input( 0-ab-0) Invalid Argument: Invalid Month Format
+Input( 0-ab-y) Invalid Argument: Invalid Month Format
+Input( 0-ab-yy) Invalid Argument: Invalid Month Format
+Input( 0-ab-yyy) Invalid Argument: Invalid Month Format
+Input( 0-ab-yyyy) Invalid Argument: Invalid Month Format
+Input( 0-ab-dddd) Invalid Argument: Invalid Month Format
+Input( 0-ab-abd) Invalid Argument: Invalid Month Format
+Input( 0-98-0) Invalid Argument: Invalid Month Format
+Input( 0-98-y) Invalid Argument: Invalid Month Format
+Input( 0-98-yy) Invalid Argument: Invalid Month Format
+Input( 0-98-yyy) Invalid Argument: Invalid Month Format
+Input( 0-98-yyyy) Invalid Argument: Invalid Month Format
+Input( 0-98-dddd) Invalid Argument: Invalid Month Format
+Input( 0-98-abd) Invalid Argument: Invalid Month Format
+Input( d-0-0) Date Format Stored d-0-0
+Input( d-0-y) Invalid Argument: Invalid Year Format
+Input( d-0-yy) Date Format Stored d-0-yy
+Input( d-0-yyy) Invalid Argument: Invalid Year Format
+Input( d-0-yyyy) Date Format Stored d-0-yyyy
+Input( d-0-dddd) Invalid Argument: Invalid Year Format
+Input( d-0-abd) Invalid Argument: Invalid Year Format
+Input( d-m-0) Date Format Stored d-m-0
+Input( d-m-y) Invalid Argument: Invalid Year Format
+Input( d-m-yy) Date Format Stored d-m-yy
+Input( d-m-yyy) Invalid Argument: Invalid Year Format
+Input( d-m-yyyy) Date Format Stored d-m-yyyy
+Input( d-m-dddd) Invalid Argument: Invalid Year Format
+Input( d-m-abd) Invalid Argument: Invalid Year Format
+Input( d-mm-0) Date Format Stored d-mm-0
+Input( d-mm-y) Invalid Argument: Invalid Year Format
+Input( d-mm-yy) Date Format Stored d-mm-yy
+Input( d-mm-yyy) Invalid Argument: Invalid Year Format
+Input( d-mm-yyyy) Date Format Stored d-mm-yyyy
+Input( d-mm-dddd) Invalid Argument: Invalid Year Format
+Input( d-mm-abd) Invalid Argument: Invalid Year Format
+Input( d-mmm-0) Date Format Stored d-mmm-0
+Input( d-mmm-y) Invalid Argument: Invalid Year Format
+Input( d-mmm-yy) Date Format Stored d-mmm-yy
+Input( d-mmm-yyy) Invalid Argument: Invalid Year Format
+Input( d-mmm-yyyy) Date Format Stored d-mmm-yyyy
+Input( d-mmm-dddd) Invalid Argument: Invalid Year Format
+Input( d-mmm-abd) Invalid Argument: Invalid Year Format
+Input( d-mmmm-0) Invalid Argument: Invalid Month Format
+Input( d-mmmm-y) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( d-mmmm-abd) Invalid Argument: Invalid Month Format
+Input( d-dd-0) Invalid Argument: Invalid Month Format
+Input( d-dd-y) Invalid Argument: Invalid Month Format
+Input( d-dd-yy) Invalid Argument: Invalid Month Format
+Input( d-dd-yyy) Invalid Argument: Invalid Month Format
+Input( d-dd-yyyy) Invalid Argument: Invalid Month Format
+Input( d-dd-dddd) Invalid Argument: Invalid Month Format
+Input( d-dd-abd) Invalid Argument: Invalid Month Format
+Input( d-ab-0) Invalid Argument: Invalid Month Format
+Input( d-ab-y) Invalid Argument: Invalid Month Format
+Input( d-ab-yy) Invalid Argument: Invalid Month Format
+Input( d-ab-yyy) Invalid Argument: Invalid Month Format
+Input( d-ab-yyyy) Invalid Argument: Invalid Month Format
+Input( d-ab-dddd) Invalid Argument: Invalid Month Format
+Input( d-ab-abd) Invalid Argument: Invalid Month Format
+Input( d-98-0) Invalid Argument: Invalid Month Format
+Input( d-98-y) Invalid Argument: Invalid Month Format
+Input( d-98-yy) Invalid Argument: Invalid Month Format
+Input( d-98-yyy) Invalid Argument: Invalid Month Format
+Input( d-98-yyyy) Invalid Argument: Invalid Month Format
+Input( d-98-dddd) Invalid Argument: Invalid Month Format
+Input( d-98-abd) Invalid Argument: Invalid Month Format
+Input( dd-0-0) Date Format Stored dd-0-0
+Input( dd-0-y) Invalid Argument: Invalid Year Format
+Input( dd-0-yy) Date Format Stored dd-0-yy
+Input( dd-0-yyy) Invalid Argument: Invalid Year Format
+Input( dd-0-yyyy) Date Format Stored dd-0-yyyy
+Input( dd-0-dddd) Invalid Argument: Invalid Year Format
+Input( dd-0-abd) Invalid Argument: Invalid Year Format
+Input( dd-m-0) Date Format Stored dd-m-0
+Input( dd-m-y) Invalid Argument: Invalid Year Format
+Input( dd-m-yy) Date Format Stored dd-m-yy
+Input( dd-m-yyy) Invalid Argument: Invalid Year Format
+Input( dd-m-yyyy) Date Format Stored dd-m-yyyy
+Input( dd-m-dddd) Invalid Argument: Invalid Year Format
+Input( dd-m-abd) Invalid Argument: Invalid Year Format
+Input( dd-mm-0) Date Format Stored dd-mm-0
+Input( dd-mm-y) Invalid Argument: Invalid Year Format
+Input( dd-mm-yy) Date Format Stored dd-mm-yy
+Input( dd-mm-yyy) Invalid Argument: Invalid Year Format
+Input( dd-mm-yyyy) Date Format Stored dd-mm-yyyy
+Input( dd-mm-dddd) Invalid Argument: Invalid Year Format
+Input( dd-mm-abd) Invalid Argument: Invalid Year Format
+Input( dd-mmm-0) Date Format Stored dd-mmm-0
+Input( dd-mmm-y) Invalid Argument: Invalid Year Format
+Input( dd-mmm-yy) Date Format Stored dd-mmm-yy
+Input( dd-mmm-yyy) Invalid Argument: Invalid Year Format
+Input( dd-mmm-yyyy) Date Format Stored dd-mmm-yyyy
+Input( dd-mmm-dddd) Invalid Argument: Invalid Year Format
+Input( dd-mmm-abd) Invalid Argument: Invalid Year Format
+Input( dd-mmmm-0) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-y) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-abd) Invalid Argument: Invalid Month Format
+Input( dd-dd-0) Invalid Argument: Invalid Month Format
+Input( dd-dd-y) Invalid Argument: Invalid Month Format
+Input( dd-dd-yy) Invalid Argument: Invalid Month Format
+Input( dd-dd-yyy) Invalid Argument: Invalid Month Format
+Input( dd-dd-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-dd-dddd) Invalid Argument: Invalid Month Format
+Input( dd-dd-abd) Invalid Argument: Invalid Month Format
+Input( dd-ab-0) Invalid Argument: Invalid Month Format
+Input( dd-ab-y) Invalid Argument: Invalid Month Format
+Input( dd-ab-yy) Invalid Argument: Invalid Month Format
+Input( dd-ab-yyy) Invalid Argument: Invalid Month Format
+Input( dd-ab-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-ab-dddd) Invalid Argument: Invalid Month Format
+Input( dd-ab-abd) Invalid Argument: Invalid Month Format
+Input( dd-98-0) Invalid Argument: Invalid Month Format
+Input( dd-98-y) Invalid Argument: Invalid Month Format
+Input( dd-98-yy) Invalid Argument: Invalid Month Format
+Input( dd-98-yyy) Invalid Argument: Invalid Month Format
+Input( dd-98-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-98-dddd) Invalid Argument: Invalid Month Format
+Input( dd-98-abd) Invalid Argument: Invalid Month Format
+Input( ddd-0-0) Invalid Argument: Invalid Date Format
+Input( ddd-0-y) Invalid Argument: Invalid Date Format
+Input( ddd-0-yy) Invalid Argument: Invalid Date Format
+Input( ddd-0-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-0-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-0-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-0-abd) Invalid Argument: Invalid Date Format
+Input( ddd-m-0) Invalid Argument: Invalid Date Format
+Input( ddd-m-y) Invalid Argument: Invalid Date Format
+Input( ddd-m-yy) Invalid Argument: Invalid Date Format
+Input( ddd-m-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-m-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-m-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-m-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mm-0) Invalid Argument: Invalid Date Format
+Input( ddd-mm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-0) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-0) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-dd-0) Invalid Argument: Invalid Date Format
+Input( ddd-dd-y) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-dd-abd) Invalid Argument: Invalid Date Format
+Input( ddd-ab-0) Invalid Argument: Invalid Date Format
+Input( ddd-ab-y) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-ab-abd) Invalid Argument: Invalid Date Format
+Input( ddd-98-0) Invalid Argument: Invalid Date Format
+Input( ddd-98-y) Invalid Argument: Invalid Date Format
+Input( ddd-98-yy) Invalid Argument: Invalid Date Format
+Input( ddd-98-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-98-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-98-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-98-abd) Invalid Argument: Invalid Date Format
+Input( dddd-0-0) Invalid Argument: Invalid Date Format
+Input( dddd-0-y) Invalid Argument: Invalid Date Format
+Input( dddd-0-yy) Invalid Argument: Invalid Date Format
+Input( dddd-0-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-0-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-0-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-0-abd) Invalid Argument: Invalid Date Format
+Input( dddd-m-0) Invalid Argument: Invalid Date Format
+Input( dddd-m-y) Invalid Argument: Invalid Date Format
+Input( dddd-m-yy) Invalid Argument: Invalid Date Format
+Input( dddd-m-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-m-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-m-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-m-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mm-0) Invalid Argument: Invalid Date Format
+Input( dddd-mm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-0) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-0) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-dd-0) Invalid Argument: Invalid Date Format
+Input( dddd-dd-y) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-dd-abd) Invalid Argument: Invalid Date Format
+Input( dddd-ab-0) Invalid Argument: Invalid Date Format
+Input( dddd-ab-y) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-ab-abd) Invalid Argument: Invalid Date Format
+Input( dddd-98-0) Invalid Argument: Invalid Date Format
+Input( dddd-98-y) Invalid Argument: Invalid Date Format
+Input( dddd-98-yy) Invalid Argument: Invalid Date Format
+Input( dddd-98-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-98-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-98-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-98-abd) Invalid Argument: Invalid Date Format
+Input( ab-0-0) Invalid Argument: Invalid Date Format
+Input( ab-0-y) Invalid Argument: Invalid Date Format
+Input( ab-0-yy) Invalid Argument: Invalid Date Format
+Input( ab-0-yyy) Invalid Argument: Invalid Date Format
+Input( ab-0-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-0-dddd) Invalid Argument: Invalid Date Format
+Input( ab-0-abd) Invalid Argument: Invalid Date Format
+Input( ab-m-0) Invalid Argument: Invalid Date Format
+Input( ab-m-y) Invalid Argument: Invalid Date Format
+Input( ab-m-yy) Invalid Argument: Invalid Date Format
+Input( ab-m-yyy) Invalid Argument: Invalid Date Format
+Input( ab-m-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-m-dddd) Invalid Argument: Invalid Date Format
+Input( ab-m-abd) Invalid Argument: Invalid Date Format
+Input( ab-mm-0) Invalid Argument: Invalid Date Format
+Input( ab-mm-y) Invalid Argument: Invalid Date Format
+Input( ab-mm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mm-abd) Invalid Argument: Invalid Date Format
+Input( ab-mmm-0) Invalid Argument: Invalid Date Format
+Input( ab-mmm-y) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mmm-abd) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-0) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-y) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( ab-dd-0) Invalid Argument: Invalid Date Format
+Input( ab-dd-y) Invalid Argument: Invalid Date Format
+Input( ab-dd-yy) Invalid Argument: Invalid Date Format
+Input( ab-dd-yyy) Invalid Argument: Invalid Date Format
+Input( ab-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-dd-dddd) Invalid Argument: Invalid Date Format
+Input( ab-dd-abd) Invalid Argument: Invalid Date Format
+Input( ab-ab-0) Invalid Argument: Invalid Date Format
+Input( ab-ab-y) Invalid Argument: Invalid Date Format
+Input( ab-ab-yy) Invalid Argument: Invalid Date Format
+Input( ab-ab-yyy) Invalid Argument: Invalid Date Format
+Input( ab-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-ab-dddd) Invalid Argument: Invalid Date Format
+Input( ab-ab-abd) Invalid Argument: Invalid Date Format
+Input( ab-98-0) Invalid Argument: Invalid Date Format
+Input( ab-98-y) Invalid Argument: Invalid Date Format
+Input( ab-98-yy) Invalid Argument: Invalid Date Format
+Input( ab-98-yyy) Invalid Argument: Invalid Date Format
+Input( ab-98-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-98-dddd) Invalid Argument: Invalid Date Format
+Input( ab-98-abd) Invalid Argument: Invalid Date Format
+
+
+---Testing DateFormat(const char*) Constructor---
+Input( --) Date Format Stored 0-0-0
+Input( --y) Invalid Argument: Invalid Year Format
+Input( --yy) Date Format Stored 0-0-yy
+Input( --yyy) Invalid Argument: Invalid Year Format
+Input( --yyyy) Date Format Stored 0-0-yyyy
+Input( --dddd) Invalid Argument: Invalid Year Format
+Input( --abd) Invalid Argument: Invalid Year Format
+Input( -m-) Date Format Stored 0-m-0
+Input( -m-y) Invalid Argument: Invalid Year Format
+Input( -m-yy) Date Format Stored 0-m-yy
+Input( -m-yyy) Invalid Argument: Invalid Year Format
+Input( -m-yyyy) Date Format Stored 0-m-yyyy
+Input( -m-dddd) Invalid Argument: Invalid Year Format
+Input( -m-abd) Invalid Argument: Invalid Year Format
+Input( -mm-) Date Format Stored 0-mm-0
+Input( -mm-y) Invalid Argument: Invalid Year Format
+Input( -mm-yy) Date Format Stored 0-mm-yy
+Input( -mm-yyy) Invalid Argument: Invalid Year Format
+Input( -mm-yyyy) Date Format Stored 0-mm-yyyy
+Input( -mm-dddd) Invalid Argument: Invalid Year Format
+Input( -mm-abd) Invalid Argument: Invalid Year Format
+Input( -mmm-) Date Format Stored 0-mmm-0
+Input( -mmm-y) Invalid Argument: Invalid Year Format
+Input( -mmm-yy) Date Format Stored 0-mmm-yy
+Input( -mmm-yyy) Invalid Argument: Invalid Year Format
+Input( -mmm-yyyy) Date Format Stored 0-mmm-yyyy
+Input( -mmm-dddd) Invalid Argument: Invalid Year Format
+Input( -mmm-abd) Invalid Argument: Invalid Year Format
+Input( -mmmm-) Invalid Argument: Invalid Month Format
+Input( -mmmm-y) Invalid Argument: Invalid Month Format
+Input( -mmmm-yy) Invalid Argument: Invalid Month Format
+Input( -mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( -mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( -mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( -mmmm-abd) Invalid Argument: Invalid Month Format
+Input( -dd-) Invalid Argument: Invalid Month Format
+Input( -dd-y) Invalid Argument: Invalid Month Format
+Input( -dd-yy) Invalid Argument: Invalid Month Format
+Input( -dd-yyy) Invalid Argument: Invalid Month Format
+Input( -dd-yyyy) Invalid Argument: Invalid Month Format
+Input( -dd-dddd) Invalid Argument: Invalid Month Format
+Input( -dd-abd) Invalid Argument: Invalid Month Format
+Input( -ab-) Invalid Argument: Invalid Month Format
+Input( -ab-y) Invalid Argument: Invalid Month Format
+Input( -ab-yy) Invalid Argument: Invalid Month Format
+Input( -ab-yyy) Invalid Argument: Invalid Month Format
+Input( -ab-yyyy) Invalid Argument: Invalid Month Format
+Input( -ab-dddd) Invalid Argument: Invalid Month Format
+Input( -ab-abd) Invalid Argument: Invalid Month Format
+Input( -98-) Invalid Argument: Invalid Month Format
+Input( -98-y) Invalid Argument: Invalid Month Format
+Input( -98-yy) Invalid Argument: Invalid Month Format
+Input( -98-yyy) Invalid Argument: Invalid Month Format
+Input( -98-yyyy) Invalid Argument: Invalid Month Format
+Input( -98-dddd) Invalid Argument: Invalid Month Format
+Input( -98-abd) Invalid Argument: Invalid Month Format
+Input( d--) Date Format Stored d-0-0
+Input( d--y) Invalid Argument: Invalid Year Format
+Input( d--yy) Date Format Stored d-0-yy
+Input( d--yyy) Invalid Argument: Invalid Year Format
+Input( d--yyyy) Date Format Stored d-0-yyyy
+Input( d--dddd) Invalid Argument: Invalid Year Format
+Input( d--abd) Invalid Argument: Invalid Year Format
+Input( d-m-) Date Format Stored d-m-0
+Input( d-m-y) Invalid Argument: Invalid Year Format
+Input( d-m-yy) Date Format Stored d-m-yy
+Input( d-m-yyy) Invalid Argument: Invalid Year Format
+Input( d-m-yyyy) Date Format Stored d-m-yyyy
+Input( d-m-dddd) Invalid Argument: Invalid Year Format
+Input( d-m-abd) Invalid Argument: Invalid Year Format
+Input( d-mm-) Date Format Stored d-mm-0
+Input( d-mm-y) Invalid Argument: Invalid Year Format
+Input( d-mm-yy) Date Format Stored d-mm-yy
+Input( d-mm-yyy) Invalid Argument: Invalid Year Format
+Input( d-mm-yyyy) Date Format Stored d-mm-yyyy
+Input( d-mm-dddd) Invalid Argument: Invalid Year Format
+Input( d-mm-abd) Invalid Argument: Invalid Year Format
+Input( d-mmm-) Date Format Stored d-mmm-0
+Input( d-mmm-y) Invalid Argument: Invalid Year Format
+Input( d-mmm-yy) Date Format Stored d-mmm-yy
+Input( d-mmm-yyy) Invalid Argument: Invalid Year Format
+Input( d-mmm-yyyy) Date Format Stored d-mmm-yyyy
+Input( d-mmm-dddd) Invalid Argument: Invalid Year Format
+Input( d-mmm-abd) Invalid Argument: Invalid Year Format
+Input( d-mmmm-) Invalid Argument: Invalid Month Format
+Input( d-mmmm-y) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( d-mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( d-mmmm-abd) Invalid Argument: Invalid Month Format
+Input( d-dd-) Invalid Argument: Invalid Month Format
+Input( d-dd-y) Invalid Argument: Invalid Month Format
+Input( d-dd-yy) Invalid Argument: Invalid Month Format
+Input( d-dd-yyy) Invalid Argument: Invalid Month Format
+Input( d-dd-yyyy) Invalid Argument: Invalid Month Format
+Input( d-dd-dddd) Invalid Argument: Invalid Month Format
+Input( d-dd-abd) Invalid Argument: Invalid Month Format
+Input( d-ab-) Invalid Argument: Invalid Month Format
+Input( d-ab-y) Invalid Argument: Invalid Month Format
+Input( d-ab-yy) Invalid Argument: Invalid Month Format
+Input( d-ab-yyy) Invalid Argument: Invalid Month Format
+Input( d-ab-yyyy) Invalid Argument: Invalid Month Format
+Input( d-ab-dddd) Invalid Argument: Invalid Month Format
+Input( d-ab-abd) Invalid Argument: Invalid Month Format
+Input( d-98-) Invalid Argument: Invalid Month Format
+Input( d-98-y) Invalid Argument: Invalid Month Format
+Input( d-98-yy) Invalid Argument: Invalid Month Format
+Input( d-98-yyy) Invalid Argument: Invalid Month Format
+Input( d-98-yyyy) Invalid Argument: Invalid Month Format
+Input( d-98-dddd) Invalid Argument: Invalid Month Format
+Input( d-98-abd) Invalid Argument: Invalid Month Format
+Input( dd--) Date Format Stored dd-0-0
+Input( dd--y) Invalid Argument: Invalid Year Format
+Input( dd--yy) Date Format Stored dd-0-yy
+Input( dd--yyy) Invalid Argument: Invalid Year Format
+Input( dd--yyyy) Date Format Stored dd-0-yyyy
+Input( dd--dddd) Invalid Argument: Invalid Year Format
+Input( dd--abd) Invalid Argument: Invalid Year Format
+Input( dd-m-) Date Format Stored dd-m-0
+Input( dd-m-y) Invalid Argument: Invalid Year Format
+Input( dd-m-yy) Date Format Stored dd-m-yy
+Input( dd-m-yyy) Invalid Argument: Invalid Year Format
+Input( dd-m-yyyy) Date Format Stored dd-m-yyyy
+Input( dd-m-dddd) Invalid Argument: Invalid Year Format
+Input( dd-m-abd) Invalid Argument: Invalid Year Format
+Input( dd-mm-) Date Format Stored dd-mm-0
+Input( dd-mm-y) Invalid Argument: Invalid Year Format
+Input( dd-mm-yy) Date Format Stored dd-mm-yy
+Input( dd-mm-yyy) Invalid Argument: Invalid Year Format
+Input( dd-mm-yyyy) Date Format Stored dd-mm-yyyy
+Input( dd-mm-dddd) Invalid Argument: Invalid Year Format
+Input( dd-mm-abd) Invalid Argument: Invalid Year Format
+Input( dd-mmm-) Date Format Stored dd-mmm-0
+Input( dd-mmm-y) Invalid Argument: Invalid Year Format
+Input( dd-mmm-yy) Date Format Stored dd-mmm-yy
+Input( dd-mmm-yyy) Invalid Argument: Invalid Year Format
+Input( dd-mmm-yyyy) Date Format Stored dd-mmm-yyyy
+Input( dd-mmm-dddd) Invalid Argument: Invalid Year Format
+Input( dd-mmm-abd) Invalid Argument: Invalid Year Format
+Input( dd-mmmm-) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-y) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yyy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-dddd) Invalid Argument: Invalid Month Format
+Input( dd-mmmm-abd) Invalid Argument: Invalid Month Format
+Input( dd-dd-) Invalid Argument: Invalid Month Format
+Input( dd-dd-y) Invalid Argument: Invalid Month Format
+Input( dd-dd-yy) Invalid Argument: Invalid Month Format
+Input( dd-dd-yyy) Invalid Argument: Invalid Month Format
+Input( dd-dd-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-dd-dddd) Invalid Argument: Invalid Month Format
+Input( dd-dd-abd) Invalid Argument: Invalid Month Format
+Input( dd-ab-) Invalid Argument: Invalid Month Format
+Input( dd-ab-y) Invalid Argument: Invalid Month Format
+Input( dd-ab-yy) Invalid Argument: Invalid Month Format
+Input( dd-ab-yyy) Invalid Argument: Invalid Month Format
+Input( dd-ab-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-ab-dddd) Invalid Argument: Invalid Month Format
+Input( dd-ab-abd) Invalid Argument: Invalid Month Format
+Input( dd-98-) Invalid Argument: Invalid Month Format
+Input( dd-98-y) Invalid Argument: Invalid Month Format
+Input( dd-98-yy) Invalid Argument: Invalid Month Format
+Input( dd-98-yyy) Invalid Argument: Invalid Month Format
+Input( dd-98-yyyy) Invalid Argument: Invalid Month Format
+Input( dd-98-dddd) Invalid Argument: Invalid Month Format
+Input( dd-98-abd) Invalid Argument: Invalid Month Format
+Input( ddd--) Invalid Argument: Invalid Date Format
+Input( ddd--y) Invalid Argument: Invalid Date Format
+Input( ddd--yy) Invalid Argument: Invalid Date Format
+Input( ddd--yyy) Invalid Argument: Invalid Date Format
+Input( ddd--yyyy) Invalid Argument: Invalid Date Format
+Input( ddd--dddd) Invalid Argument: Invalid Date Format
+Input( ddd--abd) Invalid Argument: Invalid Date Format
+Input( ddd-m-) Invalid Argument: Invalid Date Format
+Input( ddd-m-y) Invalid Argument: Invalid Date Format
+Input( ddd-m-yy) Invalid Argument: Invalid Date Format
+Input( ddd-m-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-m-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-m-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-m-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mm-) Invalid Argument: Invalid Date Format
+Input( ddd-mm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mmm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-y) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( ddd-dd-) Invalid Argument: Invalid Date Format
+Input( ddd-dd-y) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-dd-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-dd-abd) Invalid Argument: Invalid Date Format
+Input( ddd-ab-) Invalid Argument: Invalid Date Format
+Input( ddd-ab-y) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-ab-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-ab-abd) Invalid Argument: Invalid Date Format
+Input( ddd-98-) Invalid Argument: Invalid Date Format
+Input( ddd-98-y) Invalid Argument: Invalid Date Format
+Input( ddd-98-yy) Invalid Argument: Invalid Date Format
+Input( ddd-98-yyy) Invalid Argument: Invalid Date Format
+Input( ddd-98-yyyy) Invalid Argument: Invalid Date Format
+Input( ddd-98-dddd) Invalid Argument: Invalid Date Format
+Input( ddd-98-abd) Invalid Argument: Invalid Date Format
+Input( dddd--) Invalid Argument: Invalid Date Format
+Input( dddd--y) Invalid Argument: Invalid Date Format
+Input( dddd--yy) Invalid Argument: Invalid Date Format
+Input( dddd--yyy) Invalid Argument: Invalid Date Format
+Input( dddd--yyyy) Invalid Argument: Invalid Date Format
+Input( dddd--dddd) Invalid Argument: Invalid Date Format
+Input( dddd--abd) Invalid Argument: Invalid Date Format
+Input( dddd-m-) Invalid Argument: Invalid Date Format
+Input( dddd-m-y) Invalid Argument: Invalid Date Format
+Input( dddd-m-yy) Invalid Argument: Invalid Date Format
+Input( dddd-m-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-m-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-m-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-m-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mm-) Invalid Argument: Invalid Date Format
+Input( dddd-mm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mmm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-y) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( dddd-dd-) Invalid Argument: Invalid Date Format
+Input( dddd-dd-y) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-dd-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-dd-abd) Invalid Argument: Invalid Date Format
+Input( dddd-ab-) Invalid Argument: Invalid Date Format
+Input( dddd-ab-y) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-ab-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-ab-abd) Invalid Argument: Invalid Date Format
+Input( dddd-98-) Invalid Argument: Invalid Date Format
+Input( dddd-98-y) Invalid Argument: Invalid Date Format
+Input( dddd-98-yy) Invalid Argument: Invalid Date Format
+Input( dddd-98-yyy) Invalid Argument: Invalid Date Format
+Input( dddd-98-yyyy) Invalid Argument: Invalid Date Format
+Input( dddd-98-dddd) Invalid Argument: Invalid Date Format
+Input( dddd-98-abd) Invalid Argument: Invalid Date Format
+Input( ab--) Invalid Argument: Invalid Date Format
+Input( ab--y) Invalid Argument: Invalid Date Format
+Input( ab--yy) Invalid Argument: Invalid Date Format
+Input( ab--yyy) Invalid Argument: Invalid Date Format
+Input( ab--yyyy) Invalid Argument: Invalid Date Format
+Input( ab--dddd) Invalid Argument: Invalid Date Format
+Input( ab--abd) Invalid Argument: Invalid Date Format
+Input( ab-m-) Invalid Argument: Invalid Date Format
+Input( ab-m-y) Invalid Argument: Invalid Date Format
+Input( ab-m-yy) Invalid Argument: Invalid Date Format
+Input( ab-m-yyy) Invalid Argument: Invalid Date Format
+Input( ab-m-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-m-dddd) Invalid Argument: Invalid Date Format
+Input( ab-m-abd) Invalid Argument: Invalid Date Format
+Input( ab-mm-) Invalid Argument: Invalid Date Format
+Input( ab-mm-y) Invalid Argument: Invalid Date Format
+Input( ab-mm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mm-abd) Invalid Argument: Invalid Date Format
+Input( ab-mmm-) Invalid Argument: Invalid Date Format
+Input( ab-mmm-y) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mmm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mmm-abd) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-y) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yyy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-dddd) Invalid Argument: Invalid Date Format
+Input( ab-mmmm-abd) Invalid Argument: Invalid Date Format
+Input( ab-dd-) Invalid Argument: Invalid Date Format
+Input( ab-dd-y) Invalid Argument: Invalid Date Format
+Input( ab-dd-yy) Invalid Argument: Invalid Date Format
+Input( ab-dd-yyy) Invalid Argument: Invalid Date Format
+Input( ab-dd-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-dd-dddd) Invalid Argument: Invalid Date Format
+Input( ab-dd-abd) Invalid Argument: Invalid Date Format
+Input( ab-ab-) Invalid Argument: Invalid Date Format
+Input( ab-ab-y) Invalid Argument: Invalid Date Format
+Input( ab-ab-yy) Invalid Argument: Invalid Date Format
+Input( ab-ab-yyy) Invalid Argument: Invalid Date Format
+Input( ab-ab-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-ab-dddd) Invalid Argument: Invalid Date Format
+Input( ab-ab-abd) Invalid Argument: Invalid Date Format
+Input( ab-98-) Invalid Argument: Invalid Date Format
+Input( ab-98-y) Invalid Argument: Invalid Date Format
+Input( ab-98-yy) Invalid Argument: Invalid Date Format
+Input( ab-98-yyy) Invalid Argument: Invalid Date Format
+Input( ab-98-yyyy) Invalid Argument: Invalid Date Format
+Input( ab-98-dddd) Invalid Argument: Invalid Date Format
+Input( ab-98-abd) Invalid Argument: Invalid Date Format
+
+
+Testing Default Date Constructor
+dd-mmm-yy
